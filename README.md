@@ -2,11 +2,11 @@
 
 Content: 
 
-Pseudocode Prerequisites
-Hello World
-Meow
-Duck Can Count
-Walking
-Multiple Sprites
-Coughing 
-Cat-Mouse Maze Game
+Pseudocode Prerequisites<br>
+Hello World<br>
+Meow<br>
+Duck Can Count<br>
+Walking<br>
+Multiple Sprites<br>
+Coughing <br>
+Cat-Mouse Maze Game<br>
